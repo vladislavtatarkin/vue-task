@@ -1,4 +1,4 @@
-# vk-vue
+# vue-task
 
 ## Project setup
 ```
